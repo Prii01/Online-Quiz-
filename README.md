@@ -1,2 +1,5 @@
 # Online-Quiz-Management-System
-Frontend : HTML,CSS and JavaScript
+<h2>Frontend</h2>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
