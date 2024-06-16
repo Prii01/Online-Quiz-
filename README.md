@@ -1,5 +1,4 @@
 # Online-Quiz-Management-System
-<h2>Frontend</h2>
-<li>HTML</li>
-<li>CSS</li>
+<li>PHP</li>
+<li>Sql</li>
 <li>JavaScript</li>
